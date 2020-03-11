@@ -1,0 +1,5 @@
+*project*
+*target*
+*.scalafix.conf
+*assignment.sbt
+*build.sbt
