@@ -3,3 +3,5 @@
 *.scalafix.conf
 *assignment.sbt
 *build.sbt
+*csv
+*dat
